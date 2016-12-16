@@ -7,7 +7,7 @@ typedef struct student {
     char student_name [50];
     char student_surname [50];
     char student_group_code [4];
-    double student_mark;
+    float student_mark;
     bool student_exam_passed;
 } STUDENT_INFO;
 
